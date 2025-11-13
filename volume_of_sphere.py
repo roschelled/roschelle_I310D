@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import math
 def calculate_volume_of_sphere(radius):
     return (4/3) * math.pi * (radius ** 3)
@@ -5,3 +6,12 @@ def calculate_volume_of_sphere(radius):
 print(calculate_volume_of_sphere(30))
 print(calculate_volume_of_sphere(40))
 
+=======
+import math
+def calculate_volume_of_sphere(radius):
+    return (4/3) * math.pi * (radius ** 3)
+
+print(calculate_volume_of_sphere(30))
+print(calculate_volume_of_sphere(40))
+
+>>>>>>> 6ff8ef988cd8552c8189fa111cb0e9d1ec3f2aba
